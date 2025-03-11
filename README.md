@@ -8,3 +8,4 @@ Operation type: 0 deletes the element with the lowest priority; 1 inserts an ele
 
 Fibonacci heap, dary heap, binomial heap and skew heap in boost lib crash on multiple datasets including mix_25.edges!
 Pairing heap crashes on larger datasets too!
+https://github.com/boostorg/boost/issues/1017
